@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="080027c2-550f-a1ed-84c7-c5bba6c3065f">
+	<DocumentID>080027c2-550f-a1ed-84c7-c5bba6af065f</DocumentID>
+	<Name>080027c2-550f-a1ed-84c7-c5bba6af065f</Name>
+	<Description>Item status</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2022-08-03T11:27:54.986</CreationDate>
+	<Notes/>
+	<Text>Item status</Text>
+	<Language>
+		<uri
+			id="080027c2-550f-a1ed-84c7-095688f6b827"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="080027c2-550f-a1ed-84c7-c5bba689865f"
+		/>
+	</TextIdentifier>
+</TranslatedText>
