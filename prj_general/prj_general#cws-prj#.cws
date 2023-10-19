@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="080027f7-a5dc-a1ee-98f0-8af8eb452622">
+	<DocumentID>080027f7-a5dc-a1ee-98f0-8af8a8ab2622</DocumentID>
+	<Name>prj_general</Name>
+	<Description>prj_general</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2023-10-05T21:00:10.738</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="080027f7-a5dc-a1ee-98f0-8af9fcdd2622">
+			<DocumentID>080027f7-a5dc-a1ee-98f0-8af9d1ea2622</DocumentID>
+			<Name>aw_tips generic</Name>
+			<Description>aw_tips generic</Description>
+			<CreatedBy>AppWorks Developer</CreatedBy>
+			<CreationDate>2023-10-05T21:00:10.737</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>aw_tips generic 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>aw_tips</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>generic</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="080027f7-a5dc-a1ee-9ba5-f1d9a9c08a5f"
+			path="prj_general"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="080027f7-a5dc-a1ee-98f0-8af94dd0a622">
+			<DocumentID>080027f7-a5dc-a1ee-98f0-8af8f1352622</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>AppWorks Developer</CreatedBy>
+			<CreationDate>2023-10-05T21:00:10.74</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="080027f7-a5dc-a1ee-98f0-8af9ad48a622">
+					<DocumentID>080027f7-a5dc-a1ee-98f0-8af987c62622</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>AppWorks Developer</CreatedBy>
+					<CreationDate>2023-10-05T21:00:10.736</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="080027f7-a5dc-a1ee-98f0-8af9afee2622"
+							path="prj_general/en-US_080027f7-a5dc-a1ee-98f0-8af9afee2622"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="080027f7-a5dc-a1ee-98f0-8af8f1352622"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="080027f7-a5dc-a1ee-98f0-8af987c62622"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="080027f7-a5dc-a1ee-98f0-8af957f12622"
+					path="prj_general/TranslationInformation_080027f7-a5dc-a1ee-98f0-8af957f12622"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>
